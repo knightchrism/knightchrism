@@ -1,7 +1,6 @@
 ### Hi, I'm Christopher Knight · Geospatial data engineering for AI agents
 
-I build data systems where location matters, then expose them to AI agents through **MCP servers** with governed, tested, auditable tools.  
-Parcels, deeds, flood zones and census data in; answers an agent can trust out.
+I turn complex spatial data into reliable systems that AI agents can reason over: parcels and deeds, flood zones, census demographics and environmental monitoring. I build tested pipelines with PostGIS, DuckDB and dbt, run audit-first quality checks that never change data silently, and expose the results through MCP servers with governed, read-only tools.
 
 ---
 
