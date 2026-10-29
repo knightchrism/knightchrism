@@ -1,6 +1,6 @@
 ### Hi, I'm Christopher Knight · Geospatial Data Engineer | AI Agents & MCP
 
-Jacksonville, FL · 23+ years in geospatial · [knightchrism@yahoo.com](mailto:knightchrism@yahoo.com)
+Jacksonville, FL · 23+ years in geospatial · [geoknight0015@gmail.com](mailto:geoknight0015@gmail.com)
 
 I turn complex spatial data into reliable systems that AI agents can reason over: parcels, flood zones, census demographics and environmental monitoring. I build tested pipelines with PostGIS, DuckDB and dbt, run audit-first quality checks that never change data silently, and expose the results through MCP servers with governed, read-only tools.
 
@@ -38,4 +38,4 @@ I turn complex spatial data into reliable systems that AI agents can reason over
 
 
 **Open to data engineering and GIS/AI roles**, especially geospatial pipelines, agent tooling and MCP.  
-[Email](mailto:knightchrism@yahoo.com) · [GitHub](https://github.com/knightchrism) · [GeoKnight GIS](https://knightchrism.github.io/) · [X @geoknight0015](https://x.com/geoknight0015)
+[Email](mailto:geoknight0015@gmail.com) · [GitHub](https://github.com/knightchrism) · [GeoKnight GIS](https://knightchrism.github.io/) · [X @geoknight0015](https://x.com/geoknight0015)
