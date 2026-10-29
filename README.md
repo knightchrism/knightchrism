@@ -24,7 +24,7 @@ I turn complex spatial data into reliable systems that AI agents can reason over
 | **[jax-property-intelligence](https://github.com/knightchrism/jax-property-intelligence)** · [map ↗](https://knightchrism.github.io/jax-property-intelligence/) | PostGIS data platform and QA for 400k+ Duval County parcels, assessor records and addresses, with an interactive Leaflet property explorer. |
 | **[census-pipeline](https://github.com/knightchrism/census-pipeline)** | Census ACS → DuckDB → dbt (tests and docs) → governed metrics served to agents by an MCP server. Covers 67 Florida counties. |
 | **DuvalTwin** · *prototype, in progress* | 3D digital twin of Duval County in Unreal Engine 5.8 (C++) with Cesium for Unreal and self-hosted, offline 3D tiles. OpenStreetMap roads and buildings, 11 Florida tree species at real heights placed by land cover, simulated traffic, boats on the St. Johns River and planes into JAX. |
-| **GEOKNIGHT** · *my GIS business* · [site ↗](https://knightchrism.github.io/) | County-wide address data QC for Florida. |
+| **GeoKnight GIS** · *my GIS business* · [site ↗](https://knightchrism.github.io/) | County-wide address data QC for Florida. |
 | **[GeoRescue](https://github.com/knightchrism/georescue)** · [dashboard ↗](https://knightchrism.github.io/georescue/) | Audit-first parcel QA that checks recorded deeds against GIS (deed OCR, metes-and-bounds, COGO traverses), plus an MCP server. |
 | **[sjrwmd-geodata-qc](https://github.com/knightchrism/sjrwmd-geodata-qc)** · [dashboard ↗](https://knightchrism.github.io/sjrwmd-geodata-qc/) | Rule-based QA/QC of 850 groundwater monitoring stations from an ArcGIS REST service, reviewed on an interactive Leaflet map. |
 
@@ -38,4 +38,4 @@ I turn complex spatial data into reliable systems that AI agents can reason over
 
 
 **Open to data engineering and GIS/AI roles**, especially geospatial pipelines, agent tooling and MCP.  
-[Email](mailto:knightchrism@yahoo.com) · [GitHub](https://github.com/knightchrism) · [GEOKNIGHT](https://knightchrism.github.io/) · [X @geoknight0015](https://x.com/geoknight0015)
+[Email](mailto:knightchrism@yahoo.com) · [GitHub](https://github.com/knightchrism) · [GeoKnight GIS](https://knightchrism.github.io/) · [X @geoknight0015](https://x.com/geoknight0015)
