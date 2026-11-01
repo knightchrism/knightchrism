@@ -20,6 +20,7 @@ I turn complex spatial data into reliable systems that AI agents can reason over
 
 | Project | What it does |
 |---|---|
+| **[Nearest Hospital by Real Roads](https://github.com/knightchrism/nearest-hospital-demo)** · [live demo ↗](https://knightchrism.github.io/nearest-hospital-demo/) | LLM + GIS-tools agent that ranks hospitals by real drive time instead of straight-line distance, so it never picks the one across the St. Johns River. Drop a pin anywhere in Jacksonville; OSM + OSMnx + OSRM + Leaflet. |
 | **[Jacksonville Property AI Agent](https://github.com/knightchrism/jax-property-mcp)** | Python MCP server with 5 tools over a 400k+-parcel PostGIS database, used by a local LLM (Ollama) and GitHub Copilot. FEMA flood zones 12,288/12,288 loaded (0 lost), sales 75,878/75,878, 10,552 duplicate addresses removed. Agent eval suite: 4 local LLMs benchmarked (all 8/8), response time cut 2.8x. |
 | **[jax-property-intelligence](https://github.com/knightchrism/jax-property-intelligence)** · [map ↗](https://knightchrism.github.io/jax-property-intelligence/) | PostGIS data platform and QA for 400k+ Duval County parcels, assessor records and addresses, with an interactive Leaflet property explorer. |
 | **[census-pipeline](https://github.com/knightchrism/census-pipeline)** | Census ACS → DuckDB → dbt (tests and docs) → governed metrics served to agents by an MCP server. Covers 67 Florida counties. |
